@@ -1,0 +1,7 @@
+[user]
+	name = Ilias Karim
+	email = ilias.karim@icloud.com
+[pull]
+	rebase = true
+[core]
+	excludesfile = ~/.global_gitignore
