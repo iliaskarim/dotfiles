@@ -25,3 +25,5 @@ set shortmess=I
 "Enable list mode
 set list
 
+"Enable syntax highlighting
+set syntax
